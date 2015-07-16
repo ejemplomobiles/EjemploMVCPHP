@@ -5,7 +5,7 @@
         private $username = "root";
         private $password = "";
         private $host = "localhost";
-        private $dbname = "clientes_example";
+        private $dbname = "hotel";
 
         # métodos abstractos para ABM de clases que hereden 
         abstract protected static function buscarForId($id);
